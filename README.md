@@ -8,3 +8,5 @@
 * Performing model validation
 
 No code
+
+Code: [chapter-03-churn-prediction/03-churn.ipynb](chapter-03-churn-prediction/03-churn.ipynb)
