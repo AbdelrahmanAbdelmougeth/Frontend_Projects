@@ -1,8 +1,9 @@
-# HTML_and_CSS_Projects
+# Frontend Projects
 
 ## Part 1: HTML and CSS Projects
 
-* Understanding machine learning and the problems it can solve
+* Tea Station Project
+  Only HTML and CSS Project with 10 lines of javascript used for navigation bar
 * CRISP-DM: Organizing a successful machine learning project
 * Training and selecting machine learning models
 * Performing model validation
