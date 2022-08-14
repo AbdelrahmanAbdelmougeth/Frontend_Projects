@@ -3,7 +3,7 @@
 ## Part 1: HTML and CSS Projects
 
 * Tea Station Project
-  #### Only HTML and CSS Project with 10 lines of javascript used for navigation bar
+  *** Only HTML and CSS Project with 10 lines of javascript used for navigation bar
 * CRISP-DM: Organizing a successful machine learning project
 * Training and selecting machine learning models
 * Performing model validation
