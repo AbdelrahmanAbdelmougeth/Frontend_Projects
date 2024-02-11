@@ -1,0 +1,497 @@
+html{
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.clearFix{
+    clear: both;
+}
+
+
+/* header start */
+header{
+background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%),
+        url('/Images/header-bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+}
+header div{
+    width: 90%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+
+/* navbar start */
+header nav{
+    margin-bottom: 20px;
+}
+header nav ul{
+    /* border: 1px solid red; */
+    margin-top: 4px;
+    list-style-type: none;
+    float: right;
+}
+header nav ul li{
+    display: inline-block;
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    padding: 5px 5px;
+}
+header nav ul li:hover{
+    background-color: #F9B700;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+/* navbar end */
+
+
+/* header article start */
+header article{
+    /* border: 1px solid red; */
+    float: left;
+    width: 60%;
+    margin-top: 150px;
+}
+header article h5{
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+header article h1 {
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    font-size: 35px;
+}
+header article p{
+    margin-bottom: 15px;
+}
+header article button{
+    background-color: #F9B700;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 700;
+}
+header article button:hover,
+header form button:hover,
+.sec_col button:hover{
+    background-color: #222123;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 700;
+}
+/* header article end */
+
+
+/* header form start */
+header form{
+    /* height: 520px; */
+    float: right;
+    width: 38%;
+    background-color: RGB(18, 31, 48, 0.4);
+    padding: 50px 50px;
+    border: 0.5px solid #4b5364;
+}
+header form table h3{
+    text-transform: capitalize;
+    font-size: 1rem;
+    padding-bottom: 1rem;
+}
+.pickdrop{
+    padding-right: 15px;
+}
+table td{
+    padding-bottom: 15px;
+}
+select,input,form button{
+    width: 100%;
+    padding: 10px;
+    background-color: #fff;
+    border: none;
+    border-radius: 3px;
+    color: #6b6762;
+    text-transform: capitalize;
+}
+form button{
+    background-color: #F9B700;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+}
+/* header form end */
+/* header end */
+
+
+/* services */
+#services{
+    background-color: #FFFFFF;
+}
+#services h1{
+    color: #222123;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+#services h6{
+    color: #96918b;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 40px;
+}
+#services article{
+    float: left;
+    margin: 11.3333px;
+    width: 31%;
+    padding: 20px 20px;
+    background-color: #EDEDF7;
+    border-radius: 10px;
+}
+#services article img{
+    position: relative;
+    top: 5px;
+    display: inline-block;
+    margin-right: 10px;
+}
+#services article h3{
+    color: #222123;
+    display: inline-block;
+    font-size: 1rem;
+    text-transform: capitalize;
+}
+#services article p{
+    margin-top: 15px;
+    color: #96918b;
+}
+.section{
+    width: 90%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+
+.img_serv{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.img_net{
+    float: left;
+    width: 55%;
+    margin-top: 100px;
+}
+.sec_col{
+    float: right;
+    width: 40%;
+    margin-top: 150px;
+}
+.sec_col h1{
+    font-size: 2rem !important;
+    font-weight: 700;
+    text-align: left !important;
+    margin-bottom: 10px !important;
+}
+.sec_col h5{
+    color: #222123 ;
+    margin-bottom: 10px;
+}
+.sec_col p{
+    color: #96918b;
+    margin-bottom: 20px;
+}
+.sec_col button{
+    background-color: #F9B700;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 700;
+}
+/* services end */
+
+
+/* book car now */
+#choose h1{
+    color: #222123;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+#choose h6 {
+    color: #96918b;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 60px;
+}
+#choose p {
+    color: #96918b;
+}
+.info{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.first_col{
+    float: left;
+    width: 43%;
+    height: 305px;
+    margin-top: 10px;
+}
+.first_col h4{
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+    font-size: 1rem;
+}
+.first_col h2{
+    float: right;
+    color: #F9B700;
+    /* margin-right: 40px; */
+    font-size: 2.5rem;
+}
+.first_col h2 sub{
+    font-size: 1rem;
+}
+.first_col p{
+    font-size: 1rem;
+    text-transform: capitalize;
+}
+.first_col button{
+    background-color: #222123;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 700;
+}
+.first_col button:hover,
+#support button:hover{
+    background-color: #F9B700;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 700;
+}
+.second_col{
+    float: right;
+    width: 45%;
+}
+.men_cont{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.menusquare{
+    width: 10px;
+    height: 10px;
+    background-color: #96918b;
+    display: inline-block;
+}
+.msq-active{
+    background-color: #F9B700;
+}
+/* book car end */
+
+/* support */
+#support{
+    background-image: linear-gradient(to bottom, rgba(38, 52, 134, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%),
+    url('/Images/callaction-bg.jpg');
+    background-size: cover;
+    color: #fff;
+    height: 350px;
+    padding: 50px 0 0 0;
+}
+#support h1{
+    text-align: center;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+    font-size: 2.5rem;
+}
+#support p{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#support button{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid #F9B700;
+    color: #F9B700;
+    text-transform: uppercase;
+    cursor: pointer;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+    background-color: transparent;
+}
+/* support end */
+
+/* blog */
+.h11{
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    font-size: 2rem;
+}
+.p11 {
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 15px;
+    width: 70%;
+    color: #96918b;
+}
+
+#blog article{
+    width: 263px;
+    float: left;
+}
+.spacer{
+    margin-right: 25px;
+}
+#blog article .date{
+    color: #EDEDF7;
+    padding: 0 10px;
+    background-color: #000;
+    font-weight: 300;
+    text-transform: capitalize;
+    margin: 10px 0;
+    display: inline-block;
+}
+#blog article h5{
+    text-transform: capitalize;
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+#blog article p{
+    color: #96918b;
+    margin-bottom: 10px;
+
+}
+.likes{
+    float: left;
+}
+.likes span{
+    vertical-align: -3px;
+    margin-right: 5px;
+}
+.comments{
+    float: right;
+    margin-right: 5px;
+}
+.comments span {
+    vertical-align: -7px;
+    margin-right: 3px;
+}
+/* blog end */
+
+/* footer */
+footer{
+    background-color: #04091D;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+footer ul{
+    list-style-type: none;
+}
+footer article{
+    float: left;
+    width: 18%;
+}
+.newsletter{
+    float: left;
+    width: 28%;
+}
+.newsletter ul li input{
+    width: 82%;
+    height: 32px;
+    outline: none;
+    border-radius: 0;
+}
+.newsletter ul li form button{
+    background-image: url(/Images/icons/Screenshot\ 2022-10-11\ 211549.png);
+    width: 33px;
+    height: 32px;
+    background-repeat: no-repeat;
+    vertical-align: 4px;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: -4px;
+    vertical-align: 5px;
+}
+.newsletter li,
+.follow li{
+    color: #96918b;
+    text-transform: none;
+    margin-bottom: 15px;
+}
+.follow span{
+    margin-left: -7px;
+    margin-right: 10px;
+}
+footer>div>div{
+    margin-bottom: 50px;
+}
+footer p{
+    text-align: center;
+    color: #96918b;
+}
+footer article h2{
+    margin-bottom: 20px;
+    font-size: 1.3rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+footer ul li{
+    margin-bottom: 8px;
+}
+footer ul li a{
+    color: #96918b;
+    text-decoration: none;
+}
+/* footer end */
