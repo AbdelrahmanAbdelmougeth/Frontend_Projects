@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_complete_guide_code_18_diving_into_redux=self.webpackChunkreact_complete_guide_code_18_diving_into_redux||[]).push([[922],{922:function(e,c,n){n.r(c);var d=n(184);c.default=function(){return(0,d.jsx)("div",{className:"centered",children:(0,d.jsx)("p",{children:"Page Not Found"})})}}}]);
-//# sourceMappingURL=922.1ab02bcf.chunk.js.map
