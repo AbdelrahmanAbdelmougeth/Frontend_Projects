@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# Frontend Projects
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Part 1: HTML and CSS Projects
 
-## Available Scripts
+Project Name  | Project Repository | Netlify Link
+------------- | --------------- | ------------
+Tea Station (float)   |[click here](https://github.com/AbdelrahmanAbdelmougeth/01-Tea-Station-Project)                             |[click here](https://chic-syrniki-a4f0ba.netlify.app/)
+Backroads (flexbox)   |[click here](https://github.com/AbdelrahmanAbdelmougeth/02-Backroads-Project)                                |[click here](https://effervescent-gumdrop-29a18c.netlify.app/)
+Mini Project (grid)   |[click here](https://github.com/AbdelrahmanAbdelmougeth/03-Mini-Project) | none
+Buy Accessories       |[click here](https://github.com/AbdelrahmanAbdelmougeth/Frontend_Projects/tree/main/Buy%20Accessories)       |[click here](https://marvelous-cendol-9529da.netlify.app/)
+Car Rentals           |[click here](https://github.com/AbdelrahmanAbdelmougeth/Frontend_Projects/tree/main/Car%20Rentals)           |[click here](https://65c8e1910d78902f87d5a233--jolly-churros-e15452.netlify.app/)
+Construction services |[click here](https://github.com/AbdelrahmanAbdelmougeth/Frontend_Projects/tree/main/Construction%20Services) |[click here](https://65c8e3f25586052f2a961448--radiant-cheesecake-efd4e8.netlify.app/)
+Tradex                |[click here](https://github.com/AbdelrahmanAbdelmougeth/Frontend_Projects/tree/main/Tradex%20with%20Bootstrap) |[click here](https://65c8e546cf29b62fc0ea0e2e--effortless-snickerdoodle-b4ac9f.netlify.app/)
+Wow and animate.css   |[click here](https://github.com/AbdelrahmanAbdelmougeth/Frontend_Projects/tree/main/WoW%20and%20Animate.css%20Project) |[click here](https://65c8e58ab954532fb70413fb--leafy-gumdrop-4c26b4.netlify.app/)
 
-In the project directory, you can run:
 
-### `npm start`
+## Part 2: Javascript Projects
+This [Repo](https://github.com/AbdelrahmanAbdelmougeth/JavaScript-Projects) contains all the projects I've made in javascript
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Part 3: React.js Projects
+Project Name  | Project Repository | Netlify Link
+------------- | --------------- | ------------
+Great Quotes  |[click here](https://github.com/AbdelrahmanAbdelmougeth/01-Tea-Station-Project)                             |[click here](https://chic-syrniki-a4f0ba.netlify.app/)
+Backroads (flexbox)   |[click here](https://github.com/AbdelrahmanAbdelmougeth/02-Backroads-Project)                                |[click here](https://effervescent-gumdrop-29a18c.netlify.app/)
