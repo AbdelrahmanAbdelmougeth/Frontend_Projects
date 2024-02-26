@@ -21,4 +21,4 @@ This [Repo](https://github.com/AbdelrahmanAbdelmougeth/JavaScript-Projects) cont
 Project Name  | Project Repository | Netlify Link
 ------------- | --------------- | ------------
 Great Quotes  |[click here](https://github.com/AbdelrahmanAbdelmougeth/Frontend_Projects/tree/main/Great%20Quotes)                       
-React Meetups (flexbox)   |[click here](https://github.com/AbdelrahmanAbdelmougeth/Frontend_Projects/tree/main/React%20Meetups)                   
+React Meetups |[click here](https://github.com/AbdelrahmanAbdelmougeth/Frontend_Projects/tree/main/React%20Meetups)                   
