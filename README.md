@@ -20,5 +20,5 @@ This [Repo](https://github.com/AbdelrahmanAbdelmougeth/JavaScript-Projects) cont
 ## Part 3: React.js Projects
 Project Name  | Project Repository | Netlify Link
 ------------- | --------------- | ------------
-Great Quotes  |[click here](https://github.com/AbdelrahmanAbdelmougeth/01-Tea-Station-Project)                             |[click here](https://chic-syrniki-a4f0ba.netlify.app/)
-Backroads (flexbox)   |[click here](https://github.com/AbdelrahmanAbdelmougeth/02-Backroads-Project)                                |[click here](https://effervescent-gumdrop-29a18c.netlify.app/)
+Great Quotes  |[click here](https://github.com/AbdelrahmanAbdelmougeth/Frontend_Projects/tree/main/Great%20Quotes)                       
+React Meetups (flexbox)   |[click here](https://github.com/AbdelrahmanAbdelmougeth/Frontend_Projects/tree/main/React%20Meetups)                   
